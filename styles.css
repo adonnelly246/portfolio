@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+body {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    background-image: url('images/background-img.jpg');
+    background-repeat: no-repeat;
+    background-size: 1400px, auto;
+    padding: 10px;
+   }
+
+   
+
+   
