@@ -8,8 +8,8 @@ export default function Navigation(){
 
     return(
 
-        <div>
-            <nav>
+        <div className="nav-bar">
+            <nav className="nav-links">
             <Link to="/">Home</Link>
             <Link to="/Projects">My Projects</Link>
             <Link to="/Contact">Contact</Link>
